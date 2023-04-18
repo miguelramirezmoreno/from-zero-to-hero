@@ -1,4 +1,6 @@
-# from-zero-to-hero
+# From zero to Hero
+
+This is my personal portfolio for machine learning resources using Python. For now I have started followin Andrej Karpathy lectures.
 
 ## Useful links
 
